@@ -1,0 +1,46 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# PyInstaller build artifacts and packaged executables
+build/
+dist/
+release/
+*.spec
+*.exe
+
+# File Collector runtime logs and reports
+copy_*.log
+copy_*.csv
+missing_*.csv
+*.copying
+
+# Temporary test folders and files
+tmp*/
+temp*/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Windows and macOS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
